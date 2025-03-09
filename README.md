@@ -17,3 +17,7 @@ https://scholar.google.com/citations?user=l-D1UNYAAAAJ&hl=en
 - Email: pande250@umn.edu, personal: rachanapandey2016@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rachana-pandey/
 
+Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration!
+
+
+
