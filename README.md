@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋  
+# Rachana Pandey  
+---  
 
-<!--
-**rachanapandey2016/rachanapandey2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 Education  
+---  
+- Ph.D. in Health Informatics- Translational Bioinformatics track University of Minnesota- Twin Cities (Aug 2023- present)
+- Master of Science in Biotechnology, West Virginia State University (2021-2023)
+- Bachelor of Science in Agriculture, Tribhuvan University, Nepal (2015-2019)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📚 Publications  
+---  https://scholar.google.com/citations?user=l-D1UNYAAAAJ&hl=en
+
+# 🌐 Connect with me  
+---  
+- Email: pande250@umn.edu, personal: rachanapandey2016@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rachana-pandey/
+
