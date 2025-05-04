@@ -14,9 +14,8 @@
 https://scholar.google.com/citations?user=l-D1UNYAAAAJ&hl=en  
 
 🧠 Skills & Analysis Expertise
-Single-cell & bulk sequencing
-
-Single-cell RNA-seq analysis (Seurat, scRepertoire)
+- Single-cell & bulk sequencing
+- -Single-cell RNA-seq analysis (Seurat, scRepertoire)
 
 Bulk RNA-seq analysis (DESeq2, edgeR)
 
