@@ -12,40 +12,28 @@
 📚 Publications  
 ---  
 https://scholar.google.com/citations?user=l-D1UNYAAAAJ&hl=en  
+  
+## 🧠 **Skills & Analysis Expertise**
 
-🧠 Skills & Analysis Expertise
-- Single-cell & bulk sequencing
-- -Single-cell RNA-seq analysis (Seurat, scRepertoire)
+- **Single-cell & bulk sequencing**
+  - Single-cell RNA-seq analysis (Seurat, scRepertoire)  
+  - Bulk RNA-seq analysis (DESeq2, edgeR)  
+  - Bulk TCR-seq and repertoire profiling (MixCR, scRepertoire, TCRdist3)
 
-Bulk RNA-seq analysis (DESeq2, edgeR)
+- **TCR & Immunogenomics**
+  - TCR repertoire analysis  
+  - TCR-epitope binding prediction (TITAN, pMTnet, AlphaFold-Multimer)  
+  - Quasi-public & meta-clonotype analysis (TCRdist3)
 
-Bulk TCR-seq and repertoire profiling (MixCR, scRepertoire, TCRdist3)
+- **Genomic Analysis**
+  - Whole genome/exome sequencing (WGS/WES)  
+  - ChIP-seq data analysis  
+  - GWAS, fine mapping, and PRS development (PLINK, PRSice, LDSC)
 
-TCR & Immunogenomics
-
-TCR repertoire analysis
-
-TCR-epitope binding prediction (TITAN, pMTnet, AlphaFold-Multimer)
-
-Quasi-public & meta-clonotype analysis (TCRdist3)
-
-Genomic Analysis
-
-Whole genome/exome sequencing (WGS/WES)
-
-ChIP-seq data analysis
-
-GWAS, fine mapping, and PRS development (PLINK, PRSice, LDSC)
-
-Statistical & Machine Learning Methods
-
-Survival analysis, regression modeling
-
-Dimensionality reduction (PCA, t-SNE, UMAP)
-
-Classical and ensemble ML algorithms (SVM, RF, XGBoost)
-
-💬 Connect with Me
+- **Statistical & Machine Learning Methods**
+  - Survival analysis, regression modeling  
+  - Dimensionality reduction (PCA, t-SNE, UMAP)  
+  - Classical and ensemble ML algorithms (SVM, RF, XGBoost)
 
 🌐 Connect with me 
 ---  
