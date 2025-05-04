@@ -17,7 +17,7 @@ https://scholar.google.com/citations?user=l-D1UNYAAAAJ&hl=en
 
 - **Single-cell & bulk sequencing**
   - Single-cell RNA-seq analysis (Cell Ranger, Seurat, scRepertoire)  
-  - Bulk RNA-seq analysis (FastQC, multiQC, Trimmomatic,STAR, Bowtie2, FeatureCount, DESeq2, edgeR)  
+  - Bulk RNA-seq analysis (FastQC, multiQC, Trimmomatic,STAR, Bowtie2, FeatureCount, DESeq2, edgeR, pathway analysis)  
   - Bulk TCR-seq and repertoire profiling (MixTCRpred, scRepertoire, TCRdist3)
 
 - **TCR & Immunogenomics**
@@ -28,7 +28,7 @@ https://scholar.google.com/citations?user=l-D1UNYAAAAJ&hl=en
 - **Genomic Analysis**
   - Whole genome/exome sequencing (WGS/WES)  
   - ChIP-seq data analysis(Chromap, MACS)  
-  - GWAS, fine mapping, and PRS development (PLINK, susieR)
+  - GWAS, fine mapping, and PRS development (PLINK, susieR, TASSEL)
 
 - **Statistical & Machine Learning Methods**
   - Survival analysis, regression modeling  
