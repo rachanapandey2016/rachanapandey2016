@@ -34,6 +34,7 @@ https://scholar.google.com/citations?user=l-D1UNYAAAAJ&hl=en
   - Survival analysis, regression modeling  
   - Dimensionality reduction (PCA, t-SNE, UMAP)  
   - Classical and ensemble ML algorithms (SVM, RF)
+  - Deep Learning
 
 🌐 Connect with me 
 ---  
